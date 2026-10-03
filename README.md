@@ -1,4 +1,3 @@
 # Tehri
-This is my first github repository
-<br>
-Author Tehri
+This is my first Git repository
+Author_Tehri
